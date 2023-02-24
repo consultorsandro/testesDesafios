@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/workspace/testesDesafios/eliminaRepetidos",
-      "program": "c:/workspace/testesDesafios/eliminaRepetidos/build/Debug/outDebug",
+      "cwd": "c:/workspace/testesDesafios/pagarMenos",
+      "program": "c:/workspace/testesDesafios/pagarMenos/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -11,7 +11,7 @@
       "cwd": "c:/workspace/testesDesafios/eliminaRepetidos",
       "program": "c:/workspace/testesDesafios/eliminaRepetidos/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",

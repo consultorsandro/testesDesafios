@@ -8,10 +8,10 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/workspace/testesDesafios/eliminaRepetidos",
-      "program": "c:/workspace/testesDesafios/eliminaRepetidos/build/Debug/outDebug",
+      "cwd": "c:/workspace/testesDesafios/temosEmcomum",
+      "program": "c:/workspace/testesDesafios/temosEmcomum/build/Debug/outDebug",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/mingw64/bin/gdb.exe",
       "setupCommands": [
         {
           "description": "Enable pretty-printing for gdb",

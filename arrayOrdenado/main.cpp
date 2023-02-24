@@ -1,4 +1,4 @@
-//Testa se um array está ordenado NÃO TERMINADO!!!
+//Testa se um array está ordenado. NÃO TERMINADO!!!
 #include <iostream>
 
 using std::cout, std::endl;
@@ -7,7 +7,7 @@ bool is_collection_sorted(int numbers[], unsigned int collection_size){
 
   bool sorted{true}; // Assume the collection is sorted from the start
 
-  for(unsigned int i{}; i < collection_size;++i){
+  for(unsigned int i{}; i < collection_size;++i){ 
     if(i == 0){
       continue;
     }
@@ -28,8 +28,11 @@ bool is_collection_sorted(int numbers[], unsigned int collection_size){
 
 int main(){
 
-int arrayDesordenado [] {100,23,1,5,12,40};
+//int arrayDesordenado [] {100,23,1,5,12,40};
+int arrayDesordenado [] {1,2,3,4,5,6,7};
+
 unsigned int tamanho{};
+tamanho = sizeof(arrayDesordenado);
 bool info{};
 
 info = is_collection_sorted(arrayDesordenado, tamanho);// ERRO SAÍDA SEMPRE TRUE

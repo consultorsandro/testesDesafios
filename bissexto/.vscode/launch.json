@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/workspace/testesDesafios/eliminaRepetidos",
-      "program": "c:/workspace/testesDesafios/eliminaRepetidos/build/Debug/outDebug",
+      "cwd": "c:/Users/Meu Computador/Downloads/C++20  Curso nas pastas/The-C-20-Masterclass-Source-Code-main/12.Arrays/12.2DeclaringAndUsingArrays continuar/bissexto",
+      "program": "c:/Users/Meu Computador/Downloads/C++20  Curso nas pastas/The-C-20-Masterclass-Source-Code-main/12.Arrays/12.2DeclaringAndUsingArrays continuar/bissexto/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

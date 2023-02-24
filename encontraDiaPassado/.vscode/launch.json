@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/workspace/testesDesafios/eliminaRepetidos",
-      "program": "c:/workspace/testesDesafios/eliminaRepetidos/build/Debug/outDebug",
+      "cwd": "c:/workspace/Cpp-20/10.FlowControl/encontreOdiaNoPassado",
+      "program": "c:/workspace/Cpp-20/10.FlowControl/encontreOdiaNoPassado/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
